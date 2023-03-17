@@ -1,0 +1,19 @@
+{
+    "name": "ramphor/google-page-indexed-removal",
+    "description": "Auto request removal URLs created by Shell, Malware or hacked sites",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Ramphor\\Google\\PageIndexed\\Removal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
